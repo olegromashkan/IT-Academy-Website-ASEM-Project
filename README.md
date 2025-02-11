@@ -1,7 +1,13 @@
-# IT-Academy-Website-ASEM-Project
 # IT Academy Website
 
 ## Overview
+
+This project was developed as part of an individual student assignment to analyze the activities of an educational entity and create a presentation website. The goal was to design a modern, responsive, and interactive website that effectively showcases the IT Academy's offerings, instructors, and student testimonials.
+
+**Student:** Oleg Romascan  
+**Group:** INFA221FR
+
+This project was developed as part of an individual student assignment to analyze the activities of an educational entity and create a presentation website. The goal was to design a modern, responsive, and interactive website that effectively showcases the IT Academy's offerings, instructors, and student testimonials.
 Modern landing page for IT Academy built with **Tailwind CSS** and **DaisyUI**.
 
 ## Features
